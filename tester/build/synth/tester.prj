@@ -1,0 +1,4 @@
+verilog work "..\..\maze.v"
+verilog work "..\..\maze_structure.v"
+verilog work "..\..\test.v"
+verilog work "..\..\top.v"
